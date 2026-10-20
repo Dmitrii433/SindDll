@@ -20,7 +20,7 @@
 
 На данный момент библиотека распространяется в виде готовых бинарных файлов.
 
-1. Перейдите в раздел [**Releases**](https://github.com/Dmitri433/SindDll/releases).
+1. Перейдите в раздел [**Releases**](https://github.com/Dmitrii433/SindDll/releases).
 2. Скачайте последнюю версию `SindDll.dll` (и `SindDll.xml` для работы IntelliSense).
 3. Добавьте ссылку на `SindDll.dll` в вашем проекте Visual Studio.
 4. Убедитесь, что в проекте подключены сборки `System.Windows.Forms` и `System.Drawing` (требуются для работы отладчика).
